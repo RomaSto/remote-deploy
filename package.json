@@ -1,0 +1,17 @@
+{
+  "name": "remote-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "list-git-branches": "^1.0.0",
+    "list-git-remotes": "^1.0.1",
+    "nodegit": "^0.26.4",
+    "simple-git": "^1.131.0"
+  }
+}
