@@ -9,9 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "list-git-branches": "^1.0.0",
-    "list-git-remotes": "^1.0.1",
-    "nodegit": "^0.26.4",
     "simple-git": "^1.131.0"
   }
 }
